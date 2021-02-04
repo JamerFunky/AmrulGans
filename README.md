@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm FADHIL GRAPHY
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm JAMER FUNKY
 <p align="center">
 <img src="https://github.com/FdhlGraphy/botku/blob/main/temp/20201214_110934.png" width="230" height="230"/>
 </p>
@@ -10,7 +10,7 @@
 <a href="#"><img title="🔰_MyBot_🔰" src="https://img.shields.io/badge/MYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL GRAPHY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AMRUL FUNKY-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -45,7 +45,7 @@ Siapin alat dan bahannya.
 > aplikasi whatsapp
 > aplikasi termux
 > kopi+rokok ;v
-jika kalian ngerokok ya. saran gw gausah ngerokok.
+jika kalian ngerokok ya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
@@ -104,7 +104,7 @@ Script ini di modifikasi sama saya sendiri FADHIL ID.
 Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🔰_MyBot_🔰`](+62 831-0265-0464)
+* [`Donasi 🔰_MyBot_🔰`](+62 857-350-546-93)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
