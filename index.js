@@ -10,7 +10,8 @@
 */
 const A187 = '🔰_MyBot_🔰'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/jamer.fvnky'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'wa.me/62895622002734'; // JANGAN UBAH-UBAH INFO!!!
+const nomer owner = 'wa.me/62895622002734'; // JANGAN UBAH-UBAH INFO!!!
+const nomer creator = 'wa.me/6285735054693': //JANGAN UBAH-UBAH INFO!!! 
 const aktif = 'Tergantung Owner'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://bit.ly/3aCaSjI'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://bit.ly/3aNfHH5'; // JANGAN UBAH-UBAH INFO!!!
@@ -76,7 +77,7 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @nur.fdhl_`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @jamer.funky`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
@@ -1154,11 +1155,11 @@ conn.sendMessage(id, info.info(id, A187, tampilTanggal, tampilWaktu, instagram, 
 else if (text == '.foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
-else if (text == 'Fadhil'){
-conn.sendMessage(id, ' *Iya Fadhil itu ownerku kak... Ada yang bisa dibantu? , Follow Instagram Mimin yah : https://instagram.com/nur.fdhl_*' ,MessageType.text);
+else if (text == 'Amrul'){
+conn.sendMessage(id, ' *Iya Amrul itu ownerku kak... Ada yang bisa dibantu? , wa.me/62895622002734*' ,MessageType.text);
 }
-else if (text == 'Clara'){
-conn.sendMessage(id, ' *Iyaa Clara itu adeknya ownerku kak... Ada yang bisa dibantu?  , Follow Instagram adek Mimin Yah : https://instagram.com/clrayyy_*' ,MessageType.text);
+else if (text == 'Jamer'){
+conn.sendMessage(id, ' *Iyaa Jamer itu craetorku kak... Ada yang bisa dibantu?  , wa.me/6285735054693*' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
